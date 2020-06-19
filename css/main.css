@@ -1,13 +1,15 @@
 *{
-  margin: 0;
-  padding: 0;
+  margin: 3;
+  padding: 3;
   box-sizing: border-border-box;
 }
 body {
-  background-color: yellow;
+  background-color: black;
   font-family: 'Londrina Solid', cursive;
 }
 h1 {
+  font-color: white;
+
   font-family: gothic-open-shaded, sans-serif;
 
   font-weight: 400;
