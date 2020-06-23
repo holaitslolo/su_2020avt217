@@ -1,8 +1,8 @@
 h1 {
-  font-family: mongoose, chiller;
+  font-family: fredericka-the-greatest, serif;
   font-size: 22px;
-  font-style: italic
-  font-weight: 100;
+  font-style: normal;
+  font-weight: 400;
   text-align: center;
   text-decoration: uunderline;
   text-indent: 30px
@@ -14,7 +14,7 @@ h1 {
 p {
   font-size: 22px;
   line-height: 40px
-  
+
 
 
    a {
