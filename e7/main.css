@@ -1,6 +1,6 @@
 h1 {
   font-family: fredericka-the-greatest, serif;
-  font-size: 152px;
+  font-size: 60px;
   font-style: normal;
   font-weight: 400;
   text-align: center;
@@ -12,12 +12,12 @@ h1 {
   line-height: 200px
 }
 p {
-  font-size: 22px;
+  font-size: 15px;
   line-height: 40px
 }
 h3  {
   font-family: arial, times new roman;
-  font-size: 80px;
+  font-size: 30px;
   font-style: normal;
   font-weight: 400;
   text-align: center;
