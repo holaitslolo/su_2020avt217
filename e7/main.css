@@ -28,3 +28,16 @@ h3  {
   word-spacing: 10px;
   line-height: 80px
 }
+ol {
+  font-family: arial, times new roman;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  text-align: center;
+  text-decoration: uunderline;
+  text-indent: 30px
+  text-transform: uppercase;
+  color: #F24B6A;
+  word-spacing: 10px;
+  line-height: 80px
+}
