@@ -18,6 +18,9 @@ body {
   font-weight: 400;
   font-style: normal;
   font-size: 20px;
+  background-image: url("img/sea.jpg");
+	background-repeat: no-repeat;
+  background-position: center;
 }
 img {
   display; block;
@@ -48,4 +51,15 @@ ul{
   text-transform: uppercase;
   word-spacing: 70px;
   font-color: #000000;
+}
+.header {
+	background-image:url("img/site_logo.png");
+	height:70px;
+	width:110%;
+	margin:-10px;
+}
+
+.footer {
+	background-color: #000000;
+	text-align: center;
 }
