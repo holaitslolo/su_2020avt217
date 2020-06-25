@@ -39,10 +39,10 @@ h3 {
   text-align: center;
   font-size: 30px;
 }
-li{
+ul{
   font-family: mongoose, sans-serif;
   display: inline;
-  text-align: right;
+  text-align: center;
   text-transform: uppercase;
   word-spacing: 30px;
 }
