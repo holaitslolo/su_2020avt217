@@ -11,6 +11,7 @@ h1, h2{
 }
 h2 {
   font-size: 30px;
+  text-align: center;
 }
 body {
   font-family: Arial, serif;
@@ -25,10 +26,14 @@ img {
   width: 100%;
 }
 p {
+  font-family: mongoose, sans-serif;
+  font-weight: 400;
+  font-style: normal;
   text-align: center;
   font-size: 130px;
 }
 li{
   display: inline;
+  text-align: right;
   text-transform: uppercase;
 }
