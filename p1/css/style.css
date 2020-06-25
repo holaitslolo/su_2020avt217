@@ -38,11 +38,14 @@ h3 {
   font-style: normal;
   text-align: center;
   font-size: 30px;
+  text-decoration: none;
+  font-color: #000000;
 }
 ul{
   font-family: mongoose, sans-serif;
   display: inline;
   text-align: center;
   text-transform: uppercase;
-  word-spacing: 30px;
+  word-spacing: 70px;
+  font-color: #000000;
 }
