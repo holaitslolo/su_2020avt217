@@ -4,16 +4,12 @@
    <meta charset="utf-8"
    <link rel="stylesheet" href="https://use.typekit.net/ppn1rzg.css">
    <link href="css/style.css" rel="stylesheet">
+   <IMG SRC="img/site_logo.JPG" ALT="PINES N SUCH" WIDTH=150 HEIGHT=450>
   </head>
   <body>
-      <div class="content-wrapper">
-          <img src="img/sea.jpg">
-          <div class="text-wrapper">
-              <p>PINES OF NOWHERE</p>
-            </div>
-          </body>
+
       <header>
-        <p></p>
+        <p>PINES OF NOWHERE</p>
          <nav>
           <ul>
             <li><a href="home/index.html">home</a></li>
