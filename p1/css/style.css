@@ -32,8 +32,16 @@ p {
   text-align: center;
   font-size: 130px;
 }
+h3 {
+  font-family: Arial, sans-serif;
+  font-weight: 40;
+  font-style: normal;
+  text-align: center;
+  font-size: 30px;
+}
 li{
   display: inline;
   text-align: right;
   text-transform: uppercase;
+  word-spacing: 30px;
 }
