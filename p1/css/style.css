@@ -38,8 +38,8 @@ li{
   display: inline-block;
   text-transform: uppercase;
   font-size: 50px;
-  font-color: #000000;
   padding: 15px;
+  list-style: "color: black";
 }
 .navbar-right li {
     color: #000000;
