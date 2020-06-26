@@ -39,9 +39,6 @@ li{
   text-transform: uppercase;
   font-size: 50px;
   padding: 15px;
-}
-a { color:red }
-a:visited { text-decoration: none; color:red; }
-a:hover { text-decoration: none; color:blue; }
-a:focus { text-decoration: none; color:yellow; }
-a:hover, a:active { text-decoration: none; color:black }
+  color: inherit;
+  text-decoration: none;
+  }
