@@ -30,7 +30,8 @@ img {
 p {
   text-align: center;
   font-family:mongoose, serif;
-  font-size: 100px;
+  font-size: 50px;
+  line-height: 20px;
 }
 li{
   font-family: mongoose, serif;
@@ -38,4 +39,5 @@ li{
   font-size: 100px;
   text-decoration: none;
   word-spacing: 50px;
+  font-color: #000000;
 }
