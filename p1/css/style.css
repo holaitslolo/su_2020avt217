@@ -28,7 +28,9 @@ img {
   width: 100%;
 }
 p {
-  text-align: center;  
+  text-align: center;
+  font-family:mongoose, serif;
+  font-size: 10px;  
 }
 li{
   font-family: mongoose, serif;
