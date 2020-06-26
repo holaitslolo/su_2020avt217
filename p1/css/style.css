@@ -30,12 +30,10 @@ img {
 p {
   text-align: center;
   font-family:mongoose, serif;
-  font-size: 60px;
+  font-size: 100px;
 }
 li{
   font-family: mongoose, serif;
   display: inline;
-  text-decoration: none;
-  text-transform: uppercase;
   font-size: 100px;
 }
