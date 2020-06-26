@@ -36,4 +36,6 @@ li{
   font-family: mongoose, serif;
   display: inline;
   font-size: 100px;
+  text-decoration: none;
+  word-spacing: 50px;
 }
