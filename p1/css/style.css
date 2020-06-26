@@ -28,6 +28,7 @@ img {
   width: 100%;
 }
 p {
+  margin-top: 50px;
   text-align: center;
   font-family:mongoose, serif;
   font-size: 30px;
