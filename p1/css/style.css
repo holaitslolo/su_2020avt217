@@ -9,6 +9,7 @@ h1, h2{
   font-style: normal;
   text-transform: uppercase;
   text-align: center;
+  font-size: 80px;
 }
 h2 {
   font-size: 30px;
@@ -27,10 +28,11 @@ img {
   width: 100%;
 }
 p {
-  text-align: center;
+  text-align: center;  
 }
 li{
+  font-family: mongoose, serif;
   display: inline;
   text-transform: uppercase;
-  font-size: 80px;
+  font-size: 20px;
 }
