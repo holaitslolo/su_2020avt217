@@ -82,6 +82,12 @@ main. {
   border-radius: 150px;
   float: left;
 }
+.tri {
+  width: 100px;
+  height: 100px;
+  background-color: #00a5e3;
+  float: left;
+}
 .polygon1 {
   width: 40px;
   height: 40px;
@@ -100,7 +106,7 @@ main. {
   float: left;
   margin: -50px;
 }
-.polygon2 {
+.polygon3 {
   width: 40px;
   height: 40px;
   shape-outside: polygon(0 0, 0 40px, 300px 600px);
@@ -108,4 +114,4 @@ main. {
   background-color: #d1afc7;
   float: left;
   margin: -50px;
-  ]
+}
