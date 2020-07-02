@@ -82,11 +82,13 @@ main. {
   border-radius: 150px;
   float: left;
 }
-.tri {
-  width: 100px;
-  height: 100px;
-  background-color: #00a5e3;
-  float: left;
+
+.triangle-up {
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid #ff7e5a;
 }
 .polygon1 {
   width: 40px;
