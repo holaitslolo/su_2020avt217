@@ -45,26 +45,26 @@ main {
   background-color: #f26052;
   float: left;
 }
-.pattern-2.shape1 {
+.shape1 {
   width: 50px;
   height: 50px;
   background-color: #f2bb13;
   float: left;
 }
-.pattern-1.shape2 {
+.shape2 {
   width: 70px;
   height: 70px;
   background-color: #f2bb13;
   float: left;
 }
-.pattern-1.shape3 {
+.shape3 {
   width: 100px;
   height: 100px;
   background-color: #a3d9c9;
   float: left;
 }
 }
-.pattern-2.tri {
+.tri {
   width: 20px;
   height: 20px;
   border: 100px solid;
@@ -75,7 +75,7 @@ main {
   border-right-color: #00b0b2;
   float: left;
 }
-.pattern-1.circle1 {
+.circle1 {
   width: 100px;
   height:100px;
   border-radius: 50px;
@@ -83,7 +83,7 @@ main {
   border: 70px #688fad;
   border-radius: 150px;
 }
-.pattern-1.circle2 {
+.circle2 {
   width: 100px;
   height: 100px;
   border-radius: 20%;
@@ -91,7 +91,7 @@ main {
   border: 70px #000000;
   border-radius: 150px;
 }
-.pattern-2.circle1 {
+.circle1 {
   width: 100px;
   height: 100px;
   border-radius: 50%;
@@ -99,7 +99,7 @@ main {
   border: 30 #ef3e5b;
   border-radius: 120px;
 }
-.pattern-1.circle3 {
+.circle3 {
   width: 100px;
   height: 100px;
   border-radius: 50%;
@@ -110,7 +110,7 @@ main {
 .circle, .circle1, .circle2, .circle3 {
   float: left;
 }
-.pattern-4.cutcircle1 {
+.cutcircle1 {
   border-radius: 40px;
   border-right-color: #f2f2f0;
   border-top-color: #ef3e5b;
@@ -121,7 +121,7 @@ main {
   height: 0px;
   width: 0px;
 }
-.pattern-4.cutcircle2 {
+.cutcircle2 {
   border-radius: 20px;
   border-right-color: #590202;
   border-top-color: #f2d57e;
@@ -132,7 +132,7 @@ main {
   height: 0px;
   width: 0px;
 }
-.pattern-3.cutcircle3 {
+.cutcircle3 {
   border-radius: 50px;
   border-right-color: #f2a516;
   border-top-color: #d97b29;
@@ -143,14 +143,14 @@ main {
   height: 12px;
   width: 12px;
 }
-.pattern-4.triangle-up {
+.triangle-up {
   width: 0;
   height: 0;
   border-left: 30px solid transparent;
   border-right: 30px solid transparent;
   border-bottom: 80px solid ##88bf9b;
 }
-.pattern-3.triangle-down {
+.triangle-down {
   width: 20;
   height: 20;
   border-left: 30px solid transparent;
