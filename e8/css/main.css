@@ -9,7 +9,25 @@ body {
   font-family: mongoose, serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 15px;
+  font-size: 64px;
+  color: #f2bb13;
+}
+li{
+  font-family: mongoose, serif;
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 50px;
+  padding: 15px;
+}
+  a:link, a:visited, a:active  {
+    color: #314753;
+    text-decoration: none;
+    border-bottom: 2px black;
+  }
+  a:hover {
+    color: #98BAE0;
+    border-bottom: 2px white;
+  }
 }
 body {
   margin: 0;
