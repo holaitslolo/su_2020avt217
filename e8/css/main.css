@@ -1,6 +1,10 @@
 body {
   margin: 0;
 }
+main {
+  width: 120vw;
+  margin: -10vw;
+}
 .shape1 {
   width: 100px;
   height: 100px;
