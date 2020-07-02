@@ -36,7 +36,7 @@ body {
   margin: 0;
   overflow-x: hidden;
 }
-main {
+main. {
   width: 120vw;
   margin; -10vw;
 }
@@ -62,5 +62,98 @@ main {
   width: 100px;
   height: 100px;
   background-color: #a3d9c9;
+  float: left;
+}
+.circle1 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: crimson;
+  border: 70px solid yellow;
+  border-radius: 150px;
+}
+.tri {
+  width: 20px;
+  height: 20px;
+  border: 100px solid;
+  border-bottom-color: coral;
+  border-top-color: lightseagreen;
+  border-left-color: goldenrod;
+  border-right-color: crimson;
+  float: left;
+}
+.cutcircle1 {
+  border-radius: 50px;
+  border-right-color: firebrick;
+  border-top-color: darkorange;
+  border-bottom-color: gold;
+  border-left-color: darkkhaki;
+  border-width: 50px;
+  border-style: solid;
+  height: 0px;
+  width: 0px;
+}
+.cutcircle2 {
+  border-radius: 50px;
+  border-right-color: mediumspringgreen;
+  border-top-color: darkseagreen;
+  border-bottom-color: cadetblue;
+  border-left-color: powderblue;
+  border-width: 50px;
+  border-style: solid;
+  height: 0px;
+  width: 0px;
+}
+.cutcircle3 {
+  border-radius: 50px;
+  border-right-color: cornflowerblue;
+  border-top-color: lightskyblue;
+  border-bottom-color: slateblue;
+  border-left-color: deepskyblue;
+  border-width: 50px;
+  border-style: solid;
+  height: 0px;
+  width: 0px;
+}
+.cutcircle4 {
+  border-radius: 50px;
+  border-right-color: deeppink;
+  border-top-color: orchid;
+  border-bottom-color: indigo;
+  border-left-color: mediumvioletred;
+  border-width: 50px;
+  border-style: solid;
+  height: 0px;
+  width: 0px;
+}
+.cutcircle5 {
+  border-radius: 50px;
+  border-right-color: indianred;
+  border-top-color: tomato;
+  border-bottom-color: coral;
+  border-left-color: khaki;
+  border-width: 50px;
+  border-style: solid;
+  height: 0px;
+  width: 0px;
+}
+.cutcircle1, .cutcircle2, .cutcircle3, .cutcircle4, .cutcircle5 {
+  float: left;
+}
+.triangle-up {
+  width: 0;
+  height: 0;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-bottom: 80px solid turquoise;
+}
+.triangle-down {
+  width: 0;
+  height: 0;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-top: 80px solid tomato;
+}
+.triangle-up, .triangle-down {
   float: left;
 }
