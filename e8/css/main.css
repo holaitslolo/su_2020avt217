@@ -40,21 +40,15 @@ main. {
   width: 120vw;
   margin; -10vw;
 }
-.pattern-1.shape1 {
+.shape1 {
   width: 100px;
   height: 100px;
   background-color: #ff5768;
   float: left;
 }
-.shape1 {
-  width: 50px;
-  height: 50px;
-  background-color: #ff96c5;
-  float: left;
-}
 .shape2 {
-  width: 70px;
-  height: 70px;
+  width: 100px;
+  height: 100px;
   background-color: #8dd7bf;
   float: left;
 }
