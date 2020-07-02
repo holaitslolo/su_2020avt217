@@ -1,3 +1,18 @@
 body {
-  background-color: #98BAE0; 
+  background-color: #000000; 
+}
+.shape1 {
+  width: 100px;
+  height: 100px;
+  background-color: #f26052;
+}
+.shape2 {
+  width: 100px;
+  height: 100px;
+  background-color: #f2bb13;
+}
+.shape3 {
+  width: 100px;
+  height: 100px;
+  background-color: #a3d9c9;
 }
