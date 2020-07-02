@@ -16,6 +16,7 @@ h1 {
   font-style: normal;
   font-size: 70px;
   text-transform: uppercase;
+  text-align: center
 }
 li{
 font-family: mongoose, serif;
