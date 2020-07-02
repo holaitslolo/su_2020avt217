@@ -19,11 +19,11 @@ h1 {
 }
 li{
 font-family: mongoose, serif;
-display: inline;
+display: inline-block;
 text-transform: uppercase;
-font-size: 50px;
-padding: 15px;
-text-align: center;
+font-size: 40px;
+padding: 50px;
+text-align: left;
 }
 a:link, a:visited, a:active  {
   color: #314753;
