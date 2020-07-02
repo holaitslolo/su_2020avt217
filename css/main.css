@@ -6,12 +6,31 @@
 body {
   background-color:#ececec;
   font-family: 'mongoose', serif;
-  font-size: 80px;
+  font-size: 30px;
+  text-transform: uppercase;
 
 }
 h1 {
   font-family: mongoose, serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 65px;
+  font-size: 70px;
+  text-transform: uppercase;
+}
+li{
+font-family: mongoose, serif;
+display: inline;
+text-transform: uppercase;
+font-size: 50px;
+padding: 15px;
+text-align: center;
+}
+a:link, a:visited, a:active  {
+  color: #314753;
+  text-decoration: none;
+  border-bottom: 2px black;
+}
+a:hover {
+  color: #98BAE0;
+  border-bottom: 2px white;
 }
