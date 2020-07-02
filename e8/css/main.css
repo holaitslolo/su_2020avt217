@@ -1,8 +1,14 @@
 
-.shape1 {
+.pattern-1.shape1 {
   width: 10px;
   height: 100px;
   background-color: #f26052;
+  float: left;
+}
+.pattern-2.shape1 {
+  width: 100px;
+  height: 400px;
+  background-color: #f2bb13;
   float: left;
 }
 .shape2 {
