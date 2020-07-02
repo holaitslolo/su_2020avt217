@@ -1,13 +1,6 @@
-body {
-  margin: 0;
-  overflow-x: hidden;
-}
-main {
-  width: 120vw;
-  margin: -10vw;
-}
+
 .shape1 {
-  width: 100px;
+  width: 10px;
   height: 100px;
   background-color: #f26052;
   float: left;
