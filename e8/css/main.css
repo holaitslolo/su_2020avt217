@@ -83,6 +83,7 @@ main. {
   border-left: 50px solid transparent;
   border-right: 50px solid transparent;
   border-bottom: 100px solid #ff7e5a;
+  float: left;
 }
 .polygon1 {
   width: 40px;
