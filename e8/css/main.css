@@ -3,7 +3,7 @@ h1 {
 font-weight: 400;
 font-style:normal;
 font-size: 80px;
-color:  #f26052;
+color:  #ee84b3;
 text-align: center;
 }
 body {
@@ -11,7 +11,7 @@ body {
   font-weight: 400;
   font-style: normal;
   font-size: 64px;
-  color: #f2bb13;
+  color: #ff96cf;
 }
 li{
   font-family: mongoose, serif;
@@ -28,7 +28,7 @@ li{
     border-bottom: 2px black;
   }
   a:hover {
-    color: #98BAE0;
+    color: #ff60a8;
     border-bottom: 2px white;
   }
 }
@@ -43,59 +43,59 @@ main. {
 .pattern-1.shape1 {
   width: 100px;
   height: 100px;
-  background-color: #f26052;
+  background-color: #ff5768;
   float: left;
 }
 .shape1 {
   width: 50px;
   height: 50px;
-  background-color: #f2bb13;
+  background-color: #ff96c5;
   float: left;
 }
 .shape2 {
   width: 70px;
   height: 70px;
-  background-color: #f2bb13;
+  background-color: #8dd7bf;
   float: left;
 }
 .shape3 {
   width: 100px;
   height: 100px;
-  background-color: #a3d9c9;
+  background-color: #00a5e3;
   float: left;
 }
 .circle_1 {
   width: 100px;
   height: 100px;
-  border-radius: 50%;
-  background-color: #f26052;
-  border: 70px solid yellow;
+  border-radius: 80%;
+  background-color: #ff96c5;
+  border: 70px #00cdac;
   border-radius: 150px;
 }
 .polygon1 {
-  width: 300px;
-  height: 300px;
-  shape-outside: polygon(0 0, 0 30px, 100px 300px);
-  clip-path: polygon(0 0, 0 300px, 200px 300px);
-  background-color: #f26052;
+  width: 40px;
+  height: 40px;
+  shape-outside: polygon(0 0, 0 40px, 300px 600px);
+  clip-path: polygon(0 0, 0 40px, 30px 60px);
+  background-color: #a7a3bf;
   float: left;
   margin: -50px;
 }
 .polygon2 {
-  width: 30px;
-  height: 30px;
-  shape-outside: polygon(0 0, 0 30px, 100px 300px);
-  clip-path: polygon(0 0, 0 30px, 100px 300px);
-  background-color: black;
+  width: 40px;
+  height: 40px;
+  shape-outside: polygon(0 0, 0 40px, 300px 600px);
+  clip-path: polygon(0 0, 0 40px, 30px 60px);
+  background-color: #708b74;
   float: left;
   margin: -50px;
 }
-.polygon3 {
-  width: 100px;
-  height: 100px;
-  shape-outside: polygon(0 0, 0 30px, 100px 300px);
-  clip-path: polygon(0 0, 0 30px, 100px 300px);
-  background-color: #a3d9c9;
+.polygon2 {
+  width: 40px;
+  height: 40px;
+  shape-outside: polygon(0 0, 0 40px, 300px 600px);
+  clip-path: polygon(0 0, 0 40px, 30px 60px);
+  background-color: #d1afc7;
   float: left;
   margin: -50px;
-}
+  ]
