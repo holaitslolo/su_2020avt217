@@ -67,10 +67,11 @@ main. {
 .circle_1 {
   width: 100px;
   height: 100px;
-  border-radius: 80%;
+  border-radius: 10%;
   background-color: #ff96c5;
   border: 70px #00cdac;
   border-radius: 150px;
+  float: left;
 }
 .polygon1 {
   width: 40px;
