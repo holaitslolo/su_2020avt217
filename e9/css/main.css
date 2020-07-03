@@ -49,18 +49,18 @@ body {
 }
 /* checkerboard */
 .checkerboard {
-  width: 800px;
+  width: 1300px;
   margin: auto;
 }
 .red {
-  width: 30px;
-  height: 30px;
+  width: 50px;
+  height: 50px;
   background-color: #f56093;
   float: left;
 }
 .white {
-  width: 30px;
-  height: 30px;
+  width: 50px;
+  height: 50px;
   background-color: #ffcccd;
   float: left;
 }
