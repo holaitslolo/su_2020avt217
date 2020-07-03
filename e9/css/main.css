@@ -15,7 +15,7 @@ body {
 }
 body {
   margin: 50px auto;
-  padding: 20px
+  padding: 10px
 }
 /* blog */
 .blogboard {
@@ -25,26 +25,26 @@ body {
 .header1 {
   width: 800px;
   height: 100px;
-  background-color: #afddd5;
+  background-color: #ffcccd;
   margin: 20px;
 }
 .rec {
   width: 800px;
   height: 300px;
   background-color: #afddd5;
-  margin: 50px;
+  margin: 20px;
 }
 .rec2 {
-  width:  700px;
+  width:  800px;
   height: 250px;
-  background-color: #afddd5;
-  margin: 50px;
+  background-color: #f56093;
+  margin: 20px;
 
 }
 .footer1 {
   width: 800px;
   height: 60px;
-  background-color: #afddd5;
+  background-color: #ffcccd;
   margin: 50px;
 }
 /* checkerboard */
@@ -87,7 +87,7 @@ body {
   margin-bottom: 25px;
 }
 .column {
-  width: 200px;
+  width: 266px;
   height: 500px;
   background-color: #afddd5;
   float: left;
