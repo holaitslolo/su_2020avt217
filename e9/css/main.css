@@ -48,22 +48,21 @@ body {
   margin: 50px;
 }
 /* checkerboard */
-.checkerboard {
-  width: 1300px;
-  margin: auto;
+.board {
+  width: 800px;
+  margin: calc((100vh - 800px) / 2) auto;
 }
 .red {
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
   background-color: #f56093;
   float: left;
 }
 .white {
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
   background-color: #ffcccd;
   float: left;
-}
 /* column */
 .columnboard {
   width: 800px;
