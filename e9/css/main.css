@@ -71,17 +71,17 @@ body {
   margin: 50px auto;
 }
 .header1 {
-  width: 800px;
+  width: 774px;
   height: 200px;
-  background-color: #f56093;
+  background-color: #ffcccd;
   float: left;
   margin-left: 25px;
   margin-right: 25px;
 }
 .title1 {
-  width: 800px;
+  width: 774px;
   height: 50px;
-  background-color: #f56093;
+  background-color: #ffcccd;
   float: left;
   margin-left: 25px;
   margin-right: 25px;
@@ -89,16 +89,16 @@ body {
   margin-bottom: 25px;
 }
 .column {
-  width: 400px;
+  width: 241.67px;
   height: 600px;
-  background-color: #f56093;
+  background-color: #ffcccd;
   float: left;
   margin-left: 25px;
 }
 .footer1 {
-  width: 800px;
+  width: 774px;
   height: 200px;
-  background-color: #f56093;
+  background-color: #ffcccd;
   float: left;
   margin-left: 25px;
   margin-right: 25px;
