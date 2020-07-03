@@ -49,7 +49,8 @@ body {
 }
 /* checkerboard */
 .checkerboard {
-  width: 900px;
+  width: 10px;
+  height: 10px;
   margin: auto;
 }
 .red {
@@ -93,6 +94,13 @@ body {
   background-color: #ffcccd;
   float: left;
   margin-left: 25px;
+}
+.column {
+    width: 400px;
+    height: 600px;
+    background-color: #ffcccd;
+    float: right;
+    margin-left: 25px;
 }
 .footer1 {
   width: 800px;
