@@ -89,18 +89,11 @@ body {
   margin-bottom: 25px;
 }
 .column {
-  width: 400px;
+  width: 266.66px;
   height: 600px;
   background-color: #ffcccd;
   float: left;
   margin-left: 25px;
-}
-.column {
-    width: 400px;
-    height: 600px;
-    background-color: #ffcccd;
-    float: right;
-    margin-left: 25px;
 }
 .footer1 {
   width: 800px;
