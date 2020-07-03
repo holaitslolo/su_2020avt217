@@ -45,7 +45,7 @@ body {
   width: 800px;
   height: 60px;
   background-color: #ffcccd;
-  margin: 50px;
+  margin: 20px;
 }
 /* checkerboard */
 .board {
@@ -64,41 +64,57 @@ body {
   background-color: #ffcccd;
   float: left;
 /* column */
-.columnboard {
-  width: 800px;
-  margin: 50px auto;
+body {
+  background-color: black;
 }
-.header1 {
-  width: 800px;
-  height: 200px;
+main {
+  width: 960px;
+  height: 2160px;
+  margin:0px auto;
+}
+.header {
+  width: 950px;
+  height: 160px;
+  margin: 0px auto;
   background-color: #ffcccd;
-  float: left;
-  margin-left: 25px;
-  margin-right: 25px;
+  border: 5px solid white;
 }
-.title1 {
-  width: 800px;
-  height: 50px;
+.divider {
+  width: 900px;
+  height: 40px;
+  margin: 0px auto;
   background-color: #ffcccd;
-  float: left;
-  margin-left: 25px;
-  margin-right: 25px;
-  margin-top: 25px;
-  margin-bottom: 25px;
+  border: 5px solid white;
 }
-.column {
-  width: 266px;
-  height: 500px;
-  background-color: #afddd5;
-  float: left;
-  margin-left: 25px;
-}
-.footer1 {
-  width: 800px;
-  height: 200px;
+.column1 {
+  width: 300px;
+  height: 1200px;
+  margin: 0px auto;
   background-color: #ffcccd;
+  border: 5px solid white;
   float: left;
-  margin-left: 25px;
-  margin-right: 25px;
-  margin-top: 25px;
+}
+.column2 {
+  width: 300px;
+  height: 1200px;
+  margin: 0px auto;
+  background-color: #ffcccd;
+  border: 5px solid white;
+  float: left;
+}
+.column3 {
+  width: 300px;
+  height: 1200px;
+  margin: 0px auto;
+  background-color: red;
+  border: 5px solid white;
+  float: left;
+}
+.footer {
+  width: 900px;
+  height: 100px;
+  margin: 0px auto;
+  background-color: #ffcccd;
+  border: 5px solid white;
+  float: left;
 }
