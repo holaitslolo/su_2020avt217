@@ -70,7 +70,7 @@ body {
   margin: 50px auto;
 }
 .header1 {
-  width: 774px;
+  width: 800px;
   height: 200px;
   background-color: #ffcccd;
   float: left;
@@ -78,7 +78,7 @@ body {
   margin-right: 25px;
 }
 .title1 {
-  width: 774px;
+  width: 800px;
   height: 50px;
   background-color: #ffcccd;
   float: left;
@@ -88,14 +88,14 @@ body {
   margin-bottom: 25px;
 }
 .column {
-  width: 241.67px;
+  width: 400px;
   height: 600px;
   background-color: #ffcccd;
   float: left;
   margin-left: 25px;
 }
 .footer1 {
-  width: 774px;
+  width: 800px;
   height: 200px;
   background-color: #ffcccd;
   float: left;
