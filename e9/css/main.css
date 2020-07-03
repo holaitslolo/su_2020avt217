@@ -66,32 +66,41 @@ body {
   float: left;
 }
 /* column */
-.grid {
+.board2 {
   width: 800px;
-  margin: auto;
+  margin: 50px auto;
 }
-.header {
+.header1 {
   width: 800px;
-  height: 100px;
+  height: 200px;
   background-color: #f56093;
-  margin:10px;
-}
-.nav {
-  width: 800px;
-  height: 20px;
-  background-color: #f56093;
-  margin: 10px;
-}
-.content {
-  width: 250px;
-  height: 500px;
-  background-color: #f56093;
-  margin: 10px;
   float: left;
+  margin-left: 25px;
+  margin-right: 25px;
 }
-.footer {
+.title1 {
   width: 800px;
-  height: 100px;
+  height: 50px;
   background-color: #f56093;
-  margin: 10px;
+  float: left;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.column {
+  width: 400px;
+  height: 600px;
+  background-color: #f56093;
+  float: left;
+  margin-left: 25px;
+}
+.footer1 {
+  width: 800px;
+  height: 200px;
+  background-color: #f56093;
+  float: left;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 25px;
 }
