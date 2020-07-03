@@ -18,7 +18,7 @@ body {
   padding: 20px
 }
 /* blog */
-.blog {
+.blogboard {
   width: 800px;
   margin: auto;
 }
@@ -48,25 +48,24 @@ body {
   margin: 50px;
 }
 /* checkerboard */
-.board {
+.checkerboard {
   width: 900px;
-  height: 1800px;
   margin: auto;
 }
 .red {
-  width: 80px;
-  height: 80px;
+  width: 30px;
+  height: 30px;
   background-color: #f56093;
   float: left;
 }
 .white {
-  width: 80px;
-  height: 80px;
+  width: 30px;
+  height: 30px;
   background-color: #ffcccd;
   float: left;
 }
 /* column */
-.board2 {
+.columnboard {
   width: 800px;
   margin: 50px auto;
 }
