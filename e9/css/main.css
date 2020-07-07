@@ -78,14 +78,14 @@ main {
   height: 160px;
   margin: 0px auto;
   background-color: #ffcccd;
-  border: 10px solid white;
+  border: 5px solid white;
 }
 .divider {
   width: 880px;
   height: 40px;
   margin: 0px auto;
   background-color: #ffcccd;
-  border: 10px solid white;
+  border: 5px solid white;
 }
 .column1 {
   width: 286.66px;
@@ -117,5 +117,5 @@ main {
   margin: 0px auto;
   background-color: #ffcccd;
   float: left;
-  border: 10px solid white;
+  border: 5px solid white;
 }
