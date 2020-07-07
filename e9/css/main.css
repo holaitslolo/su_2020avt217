@@ -81,7 +81,7 @@ body {
   background-color: #ffcccd;
   float: left;
 }
-/* column */
+/*column*/
 body {
   background-color: white;
 }
@@ -95,14 +95,14 @@ main {
   height: 160px;
   margin: 0px auto;
   background-color: #ffcccd;
-  border: 5px solid white;
+  border: 0px solid white;
 }
 .divider {
   width: 880px;
   height: 40px;
   margin: 0px auto;
   background-color: #ffcccd;
-  border: 5px solid white;
+  border: 0px solid white;
 }
 .column1 {
   width: 286.66px;
@@ -136,6 +136,7 @@ main {
   float: left;
   border: 5px solid white;
 }
+/*court*/
 body {
   background-color: white;
 }
