@@ -119,6 +119,10 @@ main {
   float: left;
   border: 5px solid white;
 }
+body {
+  background-color: white;
+}
+main {
 .container {
   width: 820px;
   margin: auto;
