@@ -95,7 +95,6 @@ main {
   height: 160px;
   margin: 0px auto;
   background-color: #hotpink;
-  float:left;
   border: 5px solid white;
 }
 .divider {
