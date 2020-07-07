@@ -92,7 +92,7 @@ main {
   height: 1200px;
   margin: 0px auto;
   background-color: #ffcccd;
-  border: 10px solid white;
+  border: 5px solid white;
   float: left;
 }
 .column2 {
@@ -100,7 +100,7 @@ main {
   height: 1200px;
   margin: 0px auto;
   background-color: #ffcccd;
-  border: 10px solid white;
+  border: 5px solid white;
   float: left;
 }
 .column3 {
@@ -108,7 +108,7 @@ main {
   height: 1200px;
   margin: 0px auto;
   background-color: #ffcccd;
-  border: 10px solid white;
+  border: 5px solid white;
   float: left;
 }
 .footer {
