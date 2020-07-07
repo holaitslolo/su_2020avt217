@@ -66,7 +66,7 @@ body {
 }
 /* column */
 body {
-  background-color: black;
+  background-color: white;
 }
 main {
   width: 900px;
@@ -107,7 +107,7 @@ main {
   width: 286.66px;
   height: 1200px;
   margin: 0px auto;
-  background-color: red;
+  background-color: #ffcccd;
   border: 5px solid white;
   float: left;
 }
