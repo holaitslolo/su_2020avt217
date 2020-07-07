@@ -122,8 +122,7 @@ main {
 body {
   background-color: white;
 }
-main {
-.container {
+.tenniscourt {
   width: 820px;
   margin: auto;
   display: flow-root;
