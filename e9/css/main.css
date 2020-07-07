@@ -69,12 +69,12 @@ body {
   background-color: black;
 }
 main {
-  width: 960px;
+  width: 900px;
   height: 2160px;
   margin:0px auto;
 }
 .header {
-  width: 950px;
+  width: 900px;
   height: 160px;
   margin: 0px auto;
   background-color: #ffcccd;
@@ -88,7 +88,7 @@ main {
   border: 5px solid white;
 }
 .column1 {
-  width: 300px;
+  width: 286.66px;
   height: 1200px;
   margin: 0px auto;
   background-color: #ffcccd;
@@ -96,7 +96,7 @@ main {
   float: left;
 }
 .column2 {
-  width: 300px;
+  width: 286.66px;
   height: 1200px;
   margin: 0px auto;
   background-color: #ffcccd;
@@ -104,7 +104,7 @@ main {
   float: left;
 }
 .column3 {
-  width: 300px;
+  width: 286.66px;
   height: 1200px;
   margin: 0px auto;
   background-color: red;
