@@ -78,21 +78,21 @@ main {
   height: 160px;
   margin: 0px auto;
   background-color: #ffcccd;
-  border: 5px solid white;
+  border: 10px solid white;
 }
 .divider {
   width: 880px;
   height: 40px;
   margin: 0px auto;
   background-color: #ffcccd;
-  border: 5px solid white;
+  border: 10px solid white;
 }
 .column1 {
   width: 286.66px;
   height: 1200px;
   margin: 0px auto;
   background-color: #ffcccd;
-  border: 5px solid white;
+  border: 10px solid white;
   float: left;
 }
 .column2 {
@@ -100,7 +100,7 @@ main {
   height: 1200px;
   margin: 0px auto;
   background-color: #ffcccd;
-  border: 5px solid white;
+  border: 10px solid white;
   float: left;
 }
 .column3 {
@@ -108,14 +108,14 @@ main {
   height: 1200px;
   margin: 0px auto;
   background-color: #ffcccd;
-  border: 5px solid white;
+  border: 10px solid white;
   float: left;
 }
 .footer {
-  width: 8800px;
+  width: 880px;
   height: 100px;
   margin: 0px auto;
   background-color: #ffcccd;
-  border: 5px solid white;
   float: left;
+  border: 10px solid white;
 }
