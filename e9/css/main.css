@@ -91,18 +91,18 @@ main {
   margin:0px auto;
 }
 .header {
-  width: 880px;
+  width: 870px;
   height: 160px;
   margin: 0px auto;
   background-color: #ffcccd;
-  border: 0px solid white;
+  border: 5px solid white;
 }
 .divider {
-  width: 880px;
+  width: 870px;
   height: 40px;
   margin: 0px auto;
   background-color: #ffcccd;
-  border: 0px solid white;
+  border: 5px solid white;
 }
 .column1 {
   width: 286.66px;
