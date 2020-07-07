@@ -81,7 +81,7 @@ main {
   border: 5px solid white;
 }
 .divider {
-  width: 8800px;
+  width: 880px;
   height: 40px;
   margin: 0px auto;
   background-color: #ffcccd;
@@ -112,7 +112,7 @@ main {
   float: left;
 }
 .footer {
-  width: 900px;
+  width: 8800px;
   height: 100px;
   margin: 0px auto;
   background-color: #ffcccd;
