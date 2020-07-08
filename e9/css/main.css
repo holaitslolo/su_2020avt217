@@ -201,98 +201,32 @@ body {
   float: left;
 }
 /*in class activity*/
-body {
-  background-color: white;
+.july7activity {
+  width: 500px;
+  margin: auto;
 }
-main {
-  width: 1000px;
-  height: 1000px;
-  margin:0px auto;
+.sec1 {
+  float: left;
+  width: 375px;
 }
-.square1 {
+.square {
+  background-color: lavender;
   width: 100px;
   height: 100px;
-  margin: 25px auto;
-  background-color: #Peachpuff;
-  border: 0px solid white;
+  float: left;
+  margin: 12.5px;
 }
-.square2 {
-  width: 100px;
-  height: 100px;
-  margin: 25px auto;
+.vrec {
   background-color: pink;
-  float: left;
-  border: 0px solid white;
-}
-.square3 {
   width: 100px;
-  height: 100px;
-  margin: 25px auto;
+  height: 225px;
+  float: left;
+  margin: 12.5px;
+}
+.hrec {
   background-color: Peachpuff;
+  width: 225px;
+  height: 100px;
   float: left;
-  border: 0px solid white;
-}
-.rectangle1 {
-  width: 308.33px;
-  height: 200px;
-  margin: 25px auto;
-  background color: skyblue;
-  border: 0px; solid; white
-  float: left;
-}
-.rectangle2 {
-  width: 308.33px;
-  height: 200px;
-  margin: 25px auto;
-  background color: skyblue;
-  border: 0px; solid; white
-  float: left;
-}
-.rectangle2 {
-  width: 308.33px;
-  height: 200px;
-  margin: 25px auto;
-  background color: PaleTurquoise;
-  border: 0px; solid; white;
-  float: left;
-}
-.column1 {
-  width: 218.75.75x;
-  height: 600px;
-  margin: 0px auto;
-  background-color: #dodgerblue;
-  border: 25px solid white;
-  float: left;
-}
-.column2 {
-  width: 218.75px;
-  height:600px;
-  margin: 25px auto;
-  background-color: #dodgerblue;
-  border: 25px solid white;
-  float: left;
-}
-.column3 {
-  width: 218.75px;
-  height: 600px;
-  margin: 25px auto;
-  background-color: #ffcccd;  /*hotpink*/
-  border: 5px solid white;
-  float: left;
-}
-.column4 {
-  width: 218.75px;
-  height: 600px;
-  margin: 25px auto;
-  background-color: #dodgerblue;
-  border: 5px solid white;
-  float: left;
-}
-.column5 {
-  width: 218.75px;
-  height: 600px;
-  margin: 25px auto;
-  background-color: #dodgerblue;
-  border: 25px solid white;
-  float: left;
+  margin: 12.5px;
 }
