@@ -1,0 +1,65 @@
+* {
+  background-color: white;
+  margin: 15px auto;
+}
+p {
+  color: black;
+  font-family: ; ariel;
+  font-style: light;
+  font-size: 21px;
+}
+h1 {
+  color: black;
+  font-family: mongoose;
+  font-weight: 400;
+  font-style: medium;
+  font-size: 37px;
+}
+.crane {
+    width: 400px;
+    height: 400px;
+    margin-left: 200px;
+  }
+h3 {
+  color: black;
+  font-family: mongoose;
+  font-weight: 400;
+  font-style: medium;
+  font-size: 25px;
+}
+h2 {
+  color: black;
+  font-family:mongoose;
+  font-weight: 400;
+  font-style: medium;
+  text-transform: uppercase;
+  font-size: 30px;
+  opacity: 65%;
+}
+main {
+  width: 866px;
+  margin-right: 250px;
+}
+header {
+  width: 850px;
+  margin-right: 100px;
+  margin-top: 100px;
+}
+.text{
+  line-height: 30px;
+}
+@media screen and (max-width: 1100px) {
+  main {
+    max-width: 75vw;
+    margin-left: 50px;
+  }
+  h1 {
+    font-size: 28px;
+  }
+  h3 {
+    font-size: 22px;
+  }
+  p {
+    font-size: 18px;
+    }
+}
