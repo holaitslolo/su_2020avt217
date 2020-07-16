@@ -39,7 +39,7 @@ body {
 }
 
 .bread-jaw {
-  width: 56px;
+  width: 100px;
   height: 137px;
   top: 237px;
   left: 34px;
@@ -53,6 +53,7 @@ body {
   left: 93px;
   top: 263px;
   border-radius: 0 0 55px 60px;
+  background-color: #ff69b4;
 }
 
 .face div {
