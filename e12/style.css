@@ -122,14 +122,6 @@ body {
   top: 56px;
   transform: rotate(-22deg);
 }
-
-.hair .sideburn {
-  width: 20.5px;
-  height: 97px;
-  left: 34px;
-  top: 180px;
-}
-
 .eyebrow {
   position: absolute;
   border: none !important;
@@ -149,7 +141,7 @@ body {
 
 .eyebrow .left-end{
   width: 13px;
-  height: 17px;
+  height: 10px;
   left: -6px;
   transform: skewX(-14deg);
   border-radius: 4px;
@@ -157,12 +149,12 @@ body {
 
 .eyebrow .center{
   width: 49px;
-  height: 17px;
+  height: 10px;
 }
 
 .eyebrow .right-end{
   width: 13px;
-  height: 17px;
+  height: 10px;
   left: 43px;
   transform: skewX(14deg);
   border-radius: 4px;
@@ -184,7 +176,7 @@ body {
   width: 72px;
   height: 16px;
   left: 121px;
-  top: 30px;
+  top: 294px;
   border-radius: 3px;
 }
 
