@@ -176,6 +176,8 @@ body {
     left: 115px;
     top: 279px;
     border-radius: 4px 10px 16px 0;
+    background-color: #ff69bf;
+}
 
 .features .teeth {
   background-color: white;
