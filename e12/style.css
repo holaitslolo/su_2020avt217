@@ -37,6 +37,16 @@ body {
   left: 137px;
   top: 0px;
 }
+
+.bread-jaw {
+  width: 56px;
+  height: 137px;
+  top: 237px;
+  left: 34px;
+  border-radius: 0 0 0 76px;
+  background-color: #FFCE6C;
+}
+
 .bread-chin {
   width: 115px;
   height: 137px;
