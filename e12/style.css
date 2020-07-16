@@ -37,28 +37,17 @@ body {
   left: 137px;
   top: 0px;
 }
-
-.bread-jaw {
-  width: 100px;
-  height: 137px;
-  top: 237px;
-  left: 34px;
-  border-radius: 0 0 0 76px;
+.face div {
+  position: absolute;
   background-color: #FFCE6C;
 }
-
-.bread-chin {
+.chin {
   width: 115px;
   height: 137px;
   left: 93px;
   top: 263px;
   border-radius: 0 0 55px 60px;
   background-color: #ff69b4;
-}
-
-.face div {
-  position: absolute;
-  background-color: #FFCE6C;
 }
 
 .face .foundation {
