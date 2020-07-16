@@ -13,13 +13,13 @@ body {
 }
 
 .hair div {
-  background-color: #3A3A3A;
+  background-color: #704214;
   position: absolute;
 }
 
 .backhair {
   width: 67px;
-  height: 160px;
+  height: 300px;
   top: 52.839px;
   border-radius: 100px 0;
 }
