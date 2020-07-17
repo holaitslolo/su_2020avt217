@@ -66,8 +66,8 @@ body {
 }
 
 .face .cheek-left {
-  width: 56px;
-  height: 98px;
+  width: 58px;
+  height: 103px;
   left: 87px;
   top: 250px;
   border-radius: 0 0 0 57px;
@@ -174,9 +174,9 @@ body {
 .features .teeth {
   background-color: white;
   width: 72px;
-  height: 16px;
+  height: 10px;
   left: 121px;
-  top: 287px;
+  top: 285px;
   border-radius: 3px;
 }
 
@@ -185,7 +185,7 @@ body {
   width: 61px;
   height: 51px;
   left: 123px;
-  top: 309px;
+  top: 300px;
   border-radius: 0 0 20px 41px;
 }
 
