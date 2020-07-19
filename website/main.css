@@ -1,0 +1,150 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0px 0 35px 0;
+  font-family: kepler-std, serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 19px;
+  text-align: center;
+  color: #707070;
+}
+h1 {
+  font-family: mongoose, serif;
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+  font-size: 50px;
+  color: #707070;
+  text-align: center;
+}
+h3 {
+  font-family: mongoose, serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 25px;
+  color: #707070;
+}
+p {
+  margin-bottom: 25px;
+  margin-top: 10px;
+}
+li{
+  display: inline;
+  text-transform: uppercase;
+  margin-right: 20px;
+}
+a:link, a:visited, a:active {
+  color:white;
+  text-decoration: none;
+}
+a:hover {
+  color: gray;
+}
+.menu, .events, .about {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.sights, .twentyfourhours {
+  text-align: left;
+}
+nav {
+  text-align: left;
+}
+img {
+  max-width: 100%;
+  margin-bottom: 10px;
+  padding: 10px ;
+  border: 1px solid black;
+}
+.pageheader {
+  color: white;
+  font-size: 80px;
+  text-transform: uppercase;
+  text-align: left;
+}
+.HomeImage {
+  background-image: url('../images/mock4home1.JPG');
+  padding: 50px;
+  height: 660px;
+  background-size: cover;
+  background-position: center;
+}
+#hometext {
+  font-size: 20px;
+  text-align: center;
+  width: 75vw;
+  margin: 30px auto 50px;
+}
+.text {
+  font-size: 20px;
+  text-align: left;
+  width: 75vw;
+  margin: 30px auto 50px;
+}
+.boat {
+  margin-top: 30px;
+}
+section {
+  margin-top: 50px;
+}
+footer {
+  text-align: center;
+  font-size: 18px;
+}
+.home2 {
+  width: 73px;
+  height: 38px;
+  background-image: url('../images/mock4home2.JPG');
+  margin-left: auto;
+  margin-right: auto;
+}
+@media screen and (max-width: 850px) {
+  .pageheader {
+    font-size: 50px;
+  }
+}
+@media screen and (max-width: 550px) {
+  .pageheader {
+    font-size: 45px;
+  }
+}
+@media screen and (max-width: 500px) {
+  .pageheader {
+    font-size: 40px;
+  }
+  li {
+    font-size: 18px;
+    margin-right: 10px;
+    text-align: center;
+  }
+@media screen and (max-width: 450px) {
+  .pageheader {
+    font-size: 35px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .pageheader {
+    font-size: 26px;
+  }
+  .HomeImage {
+    padding: 20px;
+    height: 250px;
+  }
+  li {
+    font-size: 14px;
+    margin-right: 5px;
+    text-align: center;
+  }
+  .hometext {
+    font-size: 16px;
+    margin: 20px 50px;
+  }
+  footer {
+  }
