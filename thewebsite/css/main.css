@@ -3,6 +3,15 @@
   padding: 100;
   box-sizing: border-box;
 }
+p{
+  font-family: arial, serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 15px;
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+}
 h1 {
   font-family: mongoose, serif;
   font-weight: 400;
@@ -12,11 +21,12 @@ h1 {
 }
 h2 {
   font-size: 30px;
-    font-family: mongoose, serif;
+  font-family: mongoose, serif;
 }
 h3 {
-  font-size: 50px;
+  font-size: 20px;
   color: black;
+  text-align: center;
 }
 img {
   display; block;
@@ -27,12 +37,6 @@ img {
   padding-bottom: 0px;
   padding-left: 0px;
   padding-right: 0px;
-}
-p{
-  font-family: arial, serif;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 15px;
 }
 li{
   font-family: mongoose, serif;
