@@ -57,7 +57,7 @@ li{
   text-transform: uppercase;
   font-size: 50px;
   padding: 15px;
-  text-align: right;
+  text-align: left;
 }
   a:link, a:visited, a:active  {
     color: #314753;
