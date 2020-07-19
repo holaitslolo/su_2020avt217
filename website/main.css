@@ -88,7 +88,7 @@ img {
   width: 75vw;
   margin: 30px auto 50px;
 }
-.boat {
+.home2 {
   margin-top: 30px;
 }
 section {
@@ -102,6 +102,13 @@ footer {
   width: 73px;
   height: 38px;
   background-image: url('../images/mock4home2.JPG');
+  margin-left: auto;
+  margin-right: auto;
+}
+.home3 {
+  width: 73px;
+  height: 38px;
+  background-image: url('../images/mock4home3.JPG');
   margin-left: auto;
   margin-right: auto;
 }
