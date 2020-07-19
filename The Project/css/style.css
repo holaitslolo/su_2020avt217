@@ -23,7 +23,7 @@ body {
   font-weight: 400;
   font-style: normal;
   font-size: 20px;
-  text-align: center
+  text-align: left;
 }
 img {
   display; block;
@@ -57,6 +57,7 @@ li{
   text-transform: uppercase;
   font-size: 50px;
   padding: 15px;
+  text-align: right;
 }
   a:link, a:visited, a:active  {
     color: #314753;
