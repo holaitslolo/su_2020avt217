@@ -13,7 +13,14 @@ h1, h2{
 }
 h2 {
   font-size: 30px;
- 
+
+}
+.containter{
+  .infinite-footer-container, .page-template-template-builder-php .entry-content > .twitter-share {
+    padding: 0 10px;
+}
+.site-content {
+    padding: 0;
 }
 h3 {
   font-size: 50px;
