@@ -17,7 +17,7 @@ h2 {
 }
 .containter{
   .infinite-footer-container, .page-template-template-builder-php .entry-content > .twitter-share {
-    padding: 0 10px;
+    padding: 0px;
 }
 .site-content {
     padding: 0;
@@ -40,15 +40,15 @@ img {
   width: 140%;
 }
 p {
+  text-align: center; 
   margin-top: 20px;
   margin-bottom: 400;
   margin-right: 0px;
   margin-left:  0px:
-  text-align: center;
   font-family:kepler-std, serif;
   font-size: 15px;
   line-height: 40px;
-  padding: 7-px;
+  padding: 7px;
 }
 h4 {
   margin-top: 20px;
