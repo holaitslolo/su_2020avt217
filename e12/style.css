@@ -1,227 +1,87 @@
 body {
-  overflow: hidden;
+  background-color: #89cff0;
 }
 
-.faceContainer {
-  /*border: 4px solid gray;*/
-  position: absolute;
-  height: 400px;
-  width: 259px;
-  top: 50%;
-  left: 50%;
-  transform: translateX(-50%) translateY(-50%) rotate(-20deg);
+p {
+  font-size: 18px;
+  text-align: center;
+  color: #000000;
+  font-family: mongoose;
 }
 
-.hair div {
-  background-color: #704214;
-  position: absolute;
+.plant {
+  width: 60px;
+  margin: 80px auto 10px;
+  position: relative;
+  font-size: 0;
 }
 
-.backhair {
-  width: 80px;
-  height: 500px;
-  top: 52.839px;
-  border-radius: 100px 0;
-}
-.left {
-  left: 66px;
-  top: 26px;
+.dirt {
+  width: 60px;
+  height: 8px;
+  background-color: #322421;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 }
 
-.middle {
-  left: 97px;
-  top: 10px;
+.pot {
+  width: 60px;
+  height: 0;
+  border: solid;
+  border-width: 40px 0 0 0;
+  border-color: #000080 transparent transparent;
+  border-bottom-left-radius: 26px 40px;
+  border-bottom-right-radius: 26px 40px;
+  position: relative;
+  display: inline-block;
+  z-index: 0;
 }
-
-.right {
-  left: 137px;
-  top: 0px;
-}
-.face div {
-  position: absolute;
-  background-color: #FFCE6C;
-}
-.face  .chin {
-  width: 120px;
-  height: 90px;
-  left: 90px;
-  top: 280px;
-  border-radius: 0 0 55px 60px;
-  background-color: #ffce6c;
-}
-
-.face .foundation {
-  width: 114px;
-  height: 179px;
-  left: 44px;
-  top: 78px;
-}
-
-.face .jaw {
-  width: 68px;
-  height: 140px;
-  left: 53px;
-  top: 203px;
-  border-radius: 0 0 0 57px;
-}
-
-.face .cheek-left {
-  width: 65px;
-  height: 110px;
-  left: 87px;
-  top: 250px;
-  border-radius: 0 0 0 57px;
-}
-
-.face .cheek-right {
-  width: 124px;
-  height: 91px;
-  left: 114px;
-  top: 238px;
-  transform: skewX(-35deg);
-  border-radius: 0 40px;
-}
-
-.face .below-eye {
-  width: 124px;
-  height: 45px;
-  left: 121px;
-  top: 210px;
-  transform: skewX(14deg);
-}
-
-.face .above-eye {
-  width: 124px;
-  height: 54px;
-  left: 118px;
-  top: 168px;
-  transform: skewX(-12deg);
-  border-radius: 0 12px;
-}
-
-.face .forehead {
-  width: 124px;
-  height: 101px;
-  left: 104px;
-  top: 73px;
-  transform: skewX(18deg);
-}
-
-.hair .forehead {
-  width: 117px;
-  height: 43px;
-  left: 99px;
-  top: 38px;
-  border-radius: 20px;
-}
-
-.hair .hairline {
-  width: 124px;
-  height: 35px;
-  left: 27px;
-  top: 56px;
-  transform: rotate(-22deg);
-}
-.eyebrow {
-  position: absolute;
-  border: none !important;
-}
-
-.eyebrow-left {
-  left: 91px;
-  top: 150px;
-  transform: rotate(-6deg);
-}
-
-.eyebrow-right {
-  left: 207px;
-  top: 144px;
-  transform: rotate(12deg);
-}
-
-.eyebrow .left-end{
-  width: 13px;
+.pot span {
   height: 10px;
-  left: -6px;
-  transform: skewX(-14deg);
-  border-radius: 4px;
-}
-
-.eyebrow .center{
-  width: 49px;
-  height: 10px;
-}
-
-.eyebrow .right-end{
-  width: 13px;
-  height: 10px;
-  left: 43px;
-  transform: skewX(14deg);
-  border-radius: 4px;
-}
-.features div{
-  position: absolute;
-}
-.facial .mustache {
-    width: 89px;
-    height: 6px;
-    left: 115px;
-    top: 279px;
-    border-radius: 4px 10px 16px 0;
-    background-color: #ff69bf;
-}
-
-.features .teeth {
-  background-color: white;
-  width: 72px;
-  height: 10px;
-  left: 121px;
-  top: 285px;
-  border-radius: 3px;
-}
-
-.features .mouth {
-  background-color: #FF715A;
-  width: 61px;
-  height: 51px;
-  left: 123px;
-  top: 294px;
-  border-radius: 0 0 20px 41px;
-}
-
-.features .nose {
-  background-color: #FFB53E;
-  width: 32px;
-  height: 12px;
-  left: 162px;
-  top: 253px;
-  border-radius: 0 0 12px 12px;
-}
-
-.features .ear {
-  background-color: #FFCE6C;
-  width: 40px;
-  height: 71px;
-  left: 0px;
-  top: 190px;
-  border-radius: 20px 20px 4px 35px;
-}
-
-.features .eye {
-  width: 33px;
-  height: 33px;
-  top: 191px;
+  width: 15px;
+  display: inline-block;
+  background-color: #000080;
+  position: relative;
+  top: -42px;
   border-radius: 50%;
-  border: 7px solid black;
-  border-bottom-color: #FFCE6C;
-  border-left-color: #FFCE6C;
-  transform: rotate(-45deg);
+  margin: 0;
+}
+.pot span:after {
+  content: "";
+  top: 6px;
+  position: absolute;
+  width: 1px;
+  height: 30px;
+  background-color: #black;
+}
+.pot span:first-child:after {
+  background-color: transparent;
 }
 
-.features .eye-left {
-  left: 98px;
+.cactus span {
+  display: block;
+  position: relative;
+  height: 8px;
+  margin: auto;
+  background-color: #50c878;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-top: 1px #3f704d;
 }
-
-.features .eye-right {
-  left: 190px;
+.cactus span.right {
+  width: 51px;
+}
+.cactus span.middle {
+  width: 39px;
+}
+.cactus span.left {
+  width: 27px;
+}
+.cactus span.flower {
+  box-sizing: border-box;
+  border-top: 0;
+  width: 8px;
+  border-radius: 50%;
+  background-color: red;
+  box-shadow: -1px -1px 0px 3px #C40000 inset;
 }
