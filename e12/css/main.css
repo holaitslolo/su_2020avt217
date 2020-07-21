@@ -10,83 +10,61 @@ p {
 }
 
 .plant {
-  width: 60px;
+  width: 528px;
   margin: 80px auto 10px;
   position: relative;
   font-size: 0;
 }
 
 .dirt {
-  width: 60px;
-  height: 8px;
+  width: 528px;
+  height: 800px;
   background-color: #322421;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
 }
 
 .pot {
-  width: 60px;
+  width: 528px;
   height: 0;
   border: solid;
   border-width: 40px 0 0 0;
-  border-color: #000080 transparent transparent;
+  border-color: #000080;
   border-bottom-left-radius: 26px 40px;
   border-bottom-right-radius: 26px 40px;
   position: relative;
   display: inline-block;
-  z-index: 0;
 }
-.pot span {
-  height: 100px;
-  width: 528px;
-  display: inline-block;
-  background-color: #000080;
-  position: relative;
-  top: -42px;
-  border-radius: 50%;
-  margin: 0;
-}
-.pot span:after {
-  content: "";
-  top: 6px;
-  position: absolute;
-  width: 1px;
-  height: 30px;
-  background-color: #black;
-}
-.pot span:first-child:after {
-  background-color: transparent;
-}
-.cactus span {
+.cactus{
   display: inline-block;
   position: relative;
   height: 8px;
+  width: 528px;
   margin: auto;
   background-color: #50c878;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   border-top: 1px #3f704d;
 }
-.cactus span.left {
+.cactusleft {
   width: 50px;
   height: 150px;
   border-radius: 40%;
 }
-.cactus span.middle {
+.cactusmiddle {
   width: 100px;
   height: 300px;
   border-radius: 40%;
 }
-.cactus span.r {
+.cactusright {
   width: 25px;
   height: 75px;
   border-radius: 40%;
 }
-.cactus span.flower {
+.cactusflower {
   box-sizing: border-box;
   border-top: 0;
   width: 8px;
   border-radius: 50%;
   background-color: red;
-  box-shadow: -1px -1px 0px 3px #C40000 inset;
 }
