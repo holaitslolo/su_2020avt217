@@ -58,7 +58,7 @@ p {
   background-color: transparent;
 }
 .cactus span {
-  display: block;
+  display: inline-block;
   position: relative;
   height: 8px;
   margin: auto;
@@ -72,6 +72,7 @@ p {
 }
 .cactus span.middle {
   width: 39px;
+  height: 14px;
 }
 .cactus span.left {
   width: 27px;
