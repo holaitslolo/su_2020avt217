@@ -3,8 +3,6 @@ body {
   width:1000px;
   height:1000px;
 
-}
-
 p {
   font-size: 18px;
   text-align: center;
@@ -25,6 +23,7 @@ p {
   background-color: #322421;
   border-top-left-radius: 40px;
   border-top-right-radius: 40px;
+  background-color: #423a2f;
 }
 
 .pot {
@@ -37,6 +36,7 @@ p {
   border-bottom-right-radius: 26px 40px;
   position: relative;
   display: inline-block;
+  background-color: black;
 }
 .cactus{
   display: inline-block;
@@ -44,7 +44,6 @@ p {
   height: 8px;
   width: 528px;
   margin: auto;
-  background-color: #50c878;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   border-top: 1px #3f704d;
