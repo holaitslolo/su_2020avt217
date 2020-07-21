@@ -37,8 +37,8 @@ p {
   z-index: 0;
 }
 .pot span {
-  height: 10px;
-  width: 15px;
+  height: 100px;
+  width: 528px;
   display: inline-block;
   background-color: #000080;
   position: relative;
@@ -67,17 +67,20 @@ p {
   border-top-right-radius: 10px;
   border-top: 1px #3f704d;
 }
-.cactus span.right {
+.cactus span.left {
+  width: 50px;
+  height: 150px;
+  border-radius: 40%;
+}
+.cactus span.middle {
   width: 100px;
   height: 300px;
   border-radius: 40%;
 }
-.cactus span.middle {
-  width: 39px;
-  height: 14px;
-}
-.cactus span.left {
-  width: 27px;
+.cactus span.r {
+  width: 25px;
+  height: 75px;
+  border-radius: 40%;
 }
 .cactus span.flower {
   box-sizing: border-box;
