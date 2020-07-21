@@ -57,6 +57,7 @@ p {
 .pot span:first-child:after {
   background-color: transparent;
 }
+
 .cactus span {
   display: block;
   position: relative;
