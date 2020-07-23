@@ -19,6 +19,7 @@ h1 {
   font-weight: 400;
   font-style: normal;
   font-size: 50px;
+  text-transform: uppercase;
   text-align: center;
   color:#67C8FF;
   position: absolute;
