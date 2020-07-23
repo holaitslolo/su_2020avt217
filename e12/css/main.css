@@ -9,14 +9,62 @@ p {
   color: #000000;
   font-family: mongoose;
 }
-
 .plant {
   width: 528px;
   margin: 80px auto 10px;
   position: relative;
   font-size: 0;
 }
-
+.cactus{
+  display: inline-block;
+  position: relative;
+  height: 8px;
+  width: 528px;
+  margin: auto;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-top: 1px #3f704d;
+  position: absolute;
+  top: 50px;
+  left: 40px;
+}
+.flower {
+  box-sizing: border-box;
+  border-top: 0;
+  width: 8px;
+  border-radius: 50%;
+  background-color: #ff69b4;
+  position: absolute;
+  top: 50px;
+  left: 40px;
+}
+.left {
+  width: 50px;
+  height: 150px;
+  border-radius: 40%;
+  background-color: #50c878;
+  position: absolute;
+  top: 50px;
+  left: 40px;
+}
+.middle {
+  width: 100px;
+  height: 300px;
+  border-radius: 40%;
+  background-color: #32cd32;
+  position: absolute;
+  top: 50px;
+  left: 40px;
+}
+.right {
+  width: 25px;
+  height: 75px;
+  border-radius: 40%;
+  background-color: #0b6623;
+  position: absolute;
+  top: 50px;
+  left: 40px;
+}
 .dirt {
   width: 528px;
   height: 800px;
@@ -24,8 +72,10 @@ p {
   border-top-left-radius: 40px;
   border-top-right-radius: 40px;
   background-color: #423a2f;
+  position: absolute;
+  top: 50px;
+  left: 40px;
 }
-
 .pot {
   width: 528px;
   height: 0;
@@ -37,39 +87,7 @@ p {
   position: relative;
   display: inline-block;
   background-color: black;
-}
-.cactus{
-  display: inline-block;
-  position: relative;
-  height: 8px;
-  width: 528px;
-  margin: auto;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
-  border-top: 1px #3f704d;
-}
-.cactusleft {
-  width: 50px;
-  height: 150px;
-  border-radius: 40%;
-  background-color: #50c878;
-}
-.cactusmiddle {
-  width: 100px;
-  height: 300px;
-  border-radius: 40%;
-  background-color: #32cd32;
-}
-.cactusright {
-  width: 25px;
-  height: 75px;
-  border-radius: 40%;
-  background-color: #0b6623;
-}
-.cactusflower {
-  box-sizing: border-box;
-  border-top: 0;
-  width: 8px;
-  border-radius: 50%;
-  background-color: #ff69b4;
+  position: absolute;
+  top: 50px;
+  left: 40px;
 }
