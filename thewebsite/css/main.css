@@ -36,7 +36,7 @@ h3 {
   color: #314753;
   text-align: center;
   text-transform: uppercase;
-  padding-bottom: 10px;
+  padding-bottom: -10px;
 }
 img {
   display; block;
