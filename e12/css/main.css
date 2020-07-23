@@ -71,8 +71,8 @@ p {
   border: solid;
   border-width: 40px 0 0 0;
   border-color: #000080;
-  border-bottom-left-radius: 26px 40px;
-  border-bottom-right-radius: 26px 40px;
+  border-bottom-left-radius: 40px 40px;
+  border-bottom-right-radius: 40px 40px;
   position: relative;
   display: inline-block;
   background-color: black;
@@ -81,7 +81,7 @@ p {
   left: 500px;
 }
 .dirt {
-  width: 70px;
+  width: 500px;
   height: 20px;
   background-color: #322421;
   border-top-left-radius: 40px;
