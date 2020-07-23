@@ -10,7 +10,7 @@ p {
   font-family: mongoose;
 }
 .plant {
-  width: 50px;
+  width: 500px;
   margin: 80px auto 10px;
   position: relative;
   font-size: 0;
@@ -18,7 +18,7 @@ p {
 .cactus{
   display: inline-block;
   position: relative;
-  height: 8px;
+  height: 900;
   width: 528px;
   margin: auto;
   border-top-left-radius: 10px;
