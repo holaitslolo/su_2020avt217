@@ -56,7 +56,7 @@ p {
 }
 .left {
   width: 250px;
-  height: 150px;
+  height: 450px;
   border-radius: 40%;
   background-color: #50c878;
   position: absolute;
@@ -65,7 +65,7 @@ p {
 }
 .middle {
   width: 270px;
-  height: 100px;
+  height: 4000px;
   border-radius: 40%;
   background-color: #32cd32;
   position: absolute;
@@ -74,7 +74,7 @@ p {
 }
 .right {
   width: 200px;
-  height: 75px;
+  height: 475px;
   border-radius: 40%;
   background-color: #0b6623;
   position: absolute;
