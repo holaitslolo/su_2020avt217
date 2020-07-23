@@ -60,7 +60,7 @@ p {
   border-radius: 40%;
   background-color: #50c878;
   position: absolute;
-  top: 490px;
+  top: 690px;
   left: 490px;
 }
 .middle {
@@ -69,7 +69,7 @@ p {
   border-radius: 40%;
   background-color: #32cd32;
   position: absolute;
-  top: 500px;
+  top: 700px;
   left: 500px;
 }
 .right {
@@ -78,7 +78,7 @@ p {
   border-radius: 40%;
   background-color: #0b6623;
   position: absolute;
-  top: 510px;
+  top: 810px;
   left: 510px;
 }
 .flower {
