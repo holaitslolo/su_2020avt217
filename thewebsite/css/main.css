@@ -19,9 +19,9 @@ h1 {
   font-style: normal;
   font-size: 50px;
   text-align: center;
-  color: ##67C8FF;
+  color:#67C8FF;
   position: absolute;
-  top: -5px;
+  top: -2px;
   left: 700px;
 }
 h2 {
