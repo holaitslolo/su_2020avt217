@@ -11,6 +11,7 @@ p{
   text-align: center;
   padding-left: 100px;
   padding-right: 100px;
+  padding-bottom: 50px;
 }
 h1 {
   font-family: mongoose, serif;
@@ -35,6 +36,7 @@ h3 {
   color: #314753;
   text-align: center;
   text-transform: uppercase;
+  padding-bottom: 10px;
 }
 img {
   display; block;
