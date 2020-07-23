@@ -47,10 +47,6 @@ li{
   text-transform: uppercase;
   font-size: 50px;
   margin-left: 20px;
-  position: absolute;
-  top: 100px;
-  left: 490px;
-}
 }
   a:link, a:visited, a:active  {
     color: #314753;
