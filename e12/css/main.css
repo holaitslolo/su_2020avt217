@@ -10,7 +10,7 @@ p {
   font-family: mongoose;
 }
 .plant {
-  width: 528px;
+  width: 50px;
   margin: 80px auto 10px;
   position: relative;
   font-size: 0;
@@ -31,11 +31,11 @@ p {
 .flower {
   box-sizing: border-box;
   border-top: 0;
-  width: 8px;
+  width: 30px;
   border-radius: 50%;
   background-color: #ff69b4;
   position: absolute;
-  top: 50px;
+  top: 40px;
   left: 40px;
 }
 .left {
@@ -48,8 +48,8 @@ p {
   left: 40px;
 }
 .middle {
-  width: 100px;
-  height: 300px;
+  width: 20px;
+  height: 100px;
   border-radius: 40%;
   background-color: #32cd32;
   position: absolute;
@@ -57,7 +57,7 @@ p {
   left: 40px;
 }
 .right {
-  width: 25px;
+  width: 15px;
   height: 75px;
   border-radius: 40%;
   background-color: #0b6623;
@@ -66,8 +66,8 @@ p {
   left: 40px;
 }
 .dirt {
-  width: 528px;
-  height: 800px;
+  width: 70px;
+  height: 20px;
   background-color: #322421;
   border-top-left-radius: 40px;
   border-top-right-radius: 40px;
@@ -77,8 +77,8 @@ p {
   left: 40px;
 }
 .pot {
-  width: 528px;
-  height: 0;
+  width: 80px;
+  height: 200;
   border: solid;
   border-width: 40px 0 0 0;
   border-color: #000080;
