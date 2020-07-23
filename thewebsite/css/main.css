@@ -1,6 +1,6 @@
 * {
   margin: 500;
-  padding: 500;
+  padding: 200;
   box-sizing: border-box;
 }
 p{
@@ -12,6 +12,7 @@ p{
   padding-left: 100px;
   padding-right: 100px;
   padding-bottom: 50px;
+  padding-top: -5px;
 }
 h1 {
   font-family: mongoose, serif;
@@ -36,7 +37,6 @@ h3 {
   color: #314753;
   text-align: center;
   text-transform: uppercase;
-  padding-bottom: -10px;
 }
 img {
   display; block;
@@ -56,6 +56,8 @@ li{
   font-size: 50px;
   margin-right: 20px;
   text-align: right;
+  position: absolute;
+  top: -2px;
 }
   a:link, a:visited, a:active  {
     color: #314753;
