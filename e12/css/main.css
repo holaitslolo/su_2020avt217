@@ -15,6 +15,32 @@ p {
   position: relative;
   font-size: 0;
 }
+.pot {
+  width: 80px;
+  height: 200;
+  border: solid;
+  border-width: 40px 0 0 0;
+  border-color: #000080;
+  border-bottom-left-radius: 26px 40px;
+  border-bottom-right-radius: 26px 40px;
+  position: relative;
+  display: inline-block;
+  background-color: black;
+  position: absolute;
+  top: 50px;
+  left: 40px;
+}
+.dirt {
+  width: 70px;
+  height: 20px;
+  background-color: #322421;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+  background-color: #423a2f;
+  position: absolute;
+  top: 50px;
+  left: 40px;
+}
 .cactus{
   display: inline-block;
   position: relative;
@@ -26,16 +52,6 @@ p {
   border-top: 1px #3f704d;
   position: absolute;
   top: 50px;
-  left: 40px;
-}
-.flower {
-  box-sizing: border-box;
-  border-top: 0;
-  width: 30px;
-  border-radius: 50%;
-  background-color: #ff69b4;
-  position: absolute;
-  top: 40px;
   left: 40px;
 }
 .left {
@@ -65,29 +81,13 @@ p {
   top: 50px;
   left: 40px;
 }
-.dirt {
-  width: 70px;
-  height: 20px;
-  background-color: #322421;
-  border-top-left-radius: 40px;
-  border-top-right-radius: 40px;
-  background-color: #423a2f;
+.flower {
+  box-sizing: border-box;
+  border-top: 0;
+  width: 30px;
+  border-radius: 50%;
+  background-color: #ff69b4;
   position: absolute;
-  top: 50px;
-  left: 40px;
-}
-.pot {
-  width: 80px;
-  height: 200;
-  border: solid;
-  border-width: 40px 0 0 0;
-  border-color: #000080;
-  border-bottom-left-radius: 26px 40px;
-  border-bottom-right-radius: 26px 40px;
-  position: relative;
-  display: inline-block;
-  background-color: black;
-  position: absolute;
-  top: 50px;
+  top: 40px;
   left: 40px;
 }
