@@ -16,8 +16,8 @@ p {
   font-size: 0;
 }
 .pot {
-  width: 80px;
-  height: 200;
+  width: 200x;
+  height: 450;
   border: solid;
   border-width: 40px 0 0 0;
   border-color: #000080;
@@ -27,8 +27,8 @@ p {
   display: inline-block;
   background-color: black;
   position: absolute;
-  top: 50px;
-  left: 40px;
+  top: 500px;
+  left: 500px;
 }
 .dirt {
   width: 70px;
