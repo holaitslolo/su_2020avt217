@@ -14,13 +14,13 @@ p{
 }
 h1 {
   font-family: mongoose, serif;
-  font-weight: 400;
+  font-weight: 50;
   font-style: normal;
   font-size: 60px;
   text-align: center;
   color: #314753;
   position: absolute;
-  top: 10px;
+  top: 5px;
   left: 700px;
 }
 h2 {
