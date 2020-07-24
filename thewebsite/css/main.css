@@ -26,11 +26,6 @@ display: flow-root;
 padding: 10;
 }
 header h1 {
-  font-family: mongoose, serif;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 50px;
-  color:#67C8FF;
   float: left;
   margin: 0;
 }
